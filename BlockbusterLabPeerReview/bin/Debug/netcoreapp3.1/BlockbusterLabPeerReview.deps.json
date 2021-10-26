@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BlockbusterLabPeerReview/1.0.0": {
+        "runtime": {
+          "BlockbusterLabPeerReview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlockbusterLabPeerReview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

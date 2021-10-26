@@ -1,0 +1,14 @@
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\bin\Debug\netcoreapp3.1\BlockbusterLabPeerReview.exe
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\bin\Debug\netcoreapp3.1\BlockbusterLabPeerReview.deps.json
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\bin\Debug\netcoreapp3.1\BlockbusterLabPeerReview.runtimeconfig.json
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\bin\Debug\netcoreapp3.1\BlockbusterLabPeerReview.runtimeconfig.dev.json
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\bin\Debug\netcoreapp3.1\BlockbusterLabPeerReview.dll
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\bin\Debug\netcoreapp3.1\BlockbusterLabPeerReview.pdb
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.csproj.AssemblyReference.cache
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.AssemblyInfoInputs.cache
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.AssemblyInfo.cs
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.csproj.CoreCompileInputs.cache
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.dll
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.pdb
+C:\GitHubDevBuild\repos\BlockbusterLabPeerReview\BlockbusterLabPeerReview\obj\Debug\netcoreapp3.1\BlockbusterLabPeerReview.genruntimeconfig.cache
